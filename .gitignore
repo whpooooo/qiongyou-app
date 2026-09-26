@@ -1,0 +1,9 @@
+# Local test artifacts
+tests/edge-output.txt
+tests/edge-error.txt
+*-preview.html
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store

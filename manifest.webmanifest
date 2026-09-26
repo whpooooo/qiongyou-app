@@ -1,0 +1,20 @@
+{
+  "name": "下一站未知",
+  "short_name": "下一站",
+  "description": "为学生和年轻背包客提供穷游路线规划、方案比较和真实旅行经验。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#fffdf8",
+  "theme_color": "#ff5a36",
+  "categories": ["travel", "lifestyle"],
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

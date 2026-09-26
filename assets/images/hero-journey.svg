@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#F8C56A"/><stop offset="1" stop-color="#FF6B3D"/></linearGradient><linearGradient id="river" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2D6F67"/><stop offset="1" stop-color="#123D36"/></linearGradient></defs>
+<rect width="1200" height="720" fill="url(#sky)"/><circle cx="900" cy="170" r="92" fill="#FFF3C4" opacity=".9"/>
+<path d="M0 410L160 285 285 365 430 205 575 390 735 250 920 410 1060 285 1200 390V720H0Z" fill="#5D755F" opacity=".76"/>
+<path d="M0 470L190 350 345 455 515 315 670 470 850 335 1035 460 1200 370V720H0Z" fill="#294435"/>
+<path d="M0 520C210 455 340 575 545 510S885 440 1200 520V720H0Z" fill="url(#river)"/>
+<path d="M-30 690C250 545 430 530 640 600S1030 655 1230 515" fill="none" stroke="#FFE7A3" stroke-width="8" stroke-dasharray="4 24" stroke-linecap="round"/>
+<circle cx="275" cy="615" r="12" fill="#FFE7A3"/><circle cx="560" cy="572" r="12" fill="#FFE7A3"/><circle cx="1010" cy="590" r="12" fill="#FFE7A3"/>
+<path d="M1000 500c-86 0-150 55-150 128h300c0-73-64-128-150-128Z" fill="#F7C948"/><path d="M1000 500v-70" stroke="#17211B" stroke-width="16"/><path d="M955 460h90" stroke="#17211B" stroke-width="14"/><path d="M900 625v-80c0-56 45-101 100-101s100 45 100 101v80Z" fill="#17211B"/>
+</svg>
